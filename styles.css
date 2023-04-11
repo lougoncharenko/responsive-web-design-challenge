@@ -25,6 +25,7 @@ body, html {
 } */
 
 .main-section{
+    padding-top: 50px;
     margin-right: 800px;
     max-width: 600px;
     height: 400px;
